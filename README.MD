@@ -2,18 +2,15 @@
 # Simple Bot GPT
 
 
-
-
-
 ## Installation
 
-Install simple bot gpt with npm
+Cara install Simple Bot GPT, jalankan perintah dibawah ini setelah masuk folder projectnya:
 
 ```bash
   npm install 
 ```
     
-Running simple bot gpt 
+Cara jalanin Simple Bot GPT gunakan perintah: 
 
 ```bash
   node bot.js
