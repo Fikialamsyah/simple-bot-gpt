@@ -18,6 +18,7 @@ client.on('qr', (qr) => {
 client.on('ready', () => {
     // Menampilkan pesan "Bot GPT Terhubung ke Whatsappmu...!" saat bot berhasil terhubung
     console.log('Bot GPT Terhubung ke Whatsappmu...!');
+    console.log("Gunakan '#' pada awalan prompt untuk mendapatkan jawaban...")
 });
 
 client.initialize();
